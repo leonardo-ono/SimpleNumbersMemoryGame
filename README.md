@@ -1,4 +1,4 @@
-SimpleNumbersMemoryGame
-=======================
+MemoryGame
+==========
 
-Simple Numbers Memory Game for android just for studying game development.
+Memory Game criado para estudar desenvolvimento de jogos com Android.
